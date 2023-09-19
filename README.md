@@ -127,6 +127,8 @@ the board from a Windows PC.
 
 ## License
 
-No license file is included. Note that `MyLCD/` is derived from Peter Fleury's
-HD44780 LCD library, which carries its own license terms; keep those in mind if
-you redistribute this repository.
+Released under the [MIT License](LICENSE).
+
+Note that `MyLCD/` is derived from Peter Fleury's HD44780 LCD library, which
+carries its own license terms; those apply to that code and are unaffected by the
+MIT license of this repository.
