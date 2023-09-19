@@ -1,0 +1,10 @@
+lcd_init  KEYWORD2
+lcd_clrscr  KEYWORD2
+lcd_home  KEYWORD2
+lcd_gotoxy  KEYWORD2
+lcd_led  KEYWORD2
+lcd_putc  KEYWORD2
+lcd_puts  KEYWORD2
+lcd_puts_p  KEYWORD2
+lcd_command  KEYWORD2
+lcd_data  KEYWORD2
