@@ -1,0 +1,36 @@
+# ---- Build artifacts (AVR / Arduino) ----
+*.o
+*.a
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.d
+build/
+Debug/
+Release/
+*.exe~
+
+# ---- Visual Studio / Visual Micro / Microchip Studio cache ----
+.vs/
+*.suo
+*.wsuo
+*.user
+*.ipch
+*.aps
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+Browse.VC.db*
+*.sqlite
+*.vsidx
+DocumentLayout.json
+VSWorkspaceState.json
+ProjectSettings.json
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
